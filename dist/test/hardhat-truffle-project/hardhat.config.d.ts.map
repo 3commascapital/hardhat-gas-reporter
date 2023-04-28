@@ -1,0 +1,1 @@
+{"version":3,"file":"hardhat.config.d.ts","sourceRoot":"","sources":["../../../test/hardhat-truffle-project/hardhat.config.ts"],"names":[],"mappings":"AAAA,OAAO,6BAA6B,CAAA;AACpC,OAAO,EAAE,iBAAiB,EAAE,MAAM,eAAe,CAAC;AAGlD,OAAO,iBAAiB,CAAC;AAEzB,QAAA,MAAM,MAAM,EAAE,iBAoBb,CAAC;AAEF,eAAe,MAAM,CAAC"}

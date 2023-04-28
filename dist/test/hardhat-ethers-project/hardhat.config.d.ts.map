@@ -1,0 +1,1 @@
+{"version":3,"file":"hardhat.config.d.ts","sourceRoot":"","sources":["../../../test/hardhat-ethers-project/hardhat.config.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,iBAAiB,EAAE,MAAM,eAAe,CAAC;AAClD,OAAO,2BAA2B,CAAA;AAElC,OAAO,iBAAiB,CAAC;AAEzB,QAAA,MAAM,MAAM,EAAE,iBAKb,CAAC;AAEF,eAAe,MAAM,CAAC"}
