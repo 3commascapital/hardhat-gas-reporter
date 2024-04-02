@@ -66,7 +66,7 @@ export function getBlockUrlForChain(options: GasReporterOptions): string {
 }
 
 /**
- * Gets Etherscan eth_call api url to read OP Stack GasPriceOracle for blobBaseFee. 
+ * Gets Etherscan eth_call api url to read OP Stack GasPriceOracle for blobBaseFee.
  * Attaches L2 apikey if configured. (This fee fetched from L2 contract b/c its the only available place at
  * time of PR - eth_blobBaseFee hasn't been implemented in geth yet)
  * @param {GasReporterOptions} options
@@ -119,7 +119,11 @@ export const L1 = {
   avalanche: {
     baseUrl: "https://api.snowtrace.io/api?module=proxy&",
     token: "AVAX"
-  }
+  },
+  pulsechain: {
+    baseUrl: "https://api.pulsechain.com/api?module=proxy&",
+    token: "PLS",
+  },
 }
 
 export const L2 = {
